@@ -1,3 +1,11 @@
+# 🏎️ Formula 1 Race Outcome Predictor
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aditig10-f1project.streamlit.app/)
+
+> 🚀 Click the badge above to launch the live Streamlit app.
+
+Explore F1 driver rivalries, constructor dominance, and predict podium finishes using machine learning — all through an interactive and visual analytics dashboard.
+
 # 🏎️ Formula 1 Race Outcome Predictor & Analytics Dashboard
 
 This project is a complete pipeline to analyze, visualize, and predict Formula 1 race outcomes using historical and real-time data.
