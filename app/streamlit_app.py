@@ -100,8 +100,9 @@ with tab3:
     st.markdown("Input your own setup to see predicted podium finishes")
 
     # Load models
-    rf = joblib.load("../models/race_prediction/random_forest.pkl")
-    xgb = joblib.load("../models/race_prediction/xgboost.pkl")
+    rf = joblib.load("public_models/random_forest.pkl")
+    xgb = joblib.load("public_models/xgboost.pkl")
+
 
     st.subheader("📋 Input Race Setup")
 
