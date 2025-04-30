@@ -1,0 +1,19 @@
+# App Framework
+streamlit==1.32.2
+
+# Data Handling
+pandas==1.5.3
+numpy==1.24.4
+python-dateutil==2.8.2
+
+# Visualization
+plotly==5.18.0
+
+# Machine Learning
+scikit-learn==1.3.2
+xgboost==1.7.6
+joblib==1.3.2
+
+# Optional: for clustering (used in constructor tiers)
+scipy==1.10.1
+scikit-image==0.20.0
