@@ -24,7 +24,10 @@ data/model_input/
 
 # Model binaries
 models/
+# Ignore all pkl files except public ones
 *.pkl
+!public_models/*.pkl
+
 
 # Jupyter artifacts
 .ipynb_checkpoints/
